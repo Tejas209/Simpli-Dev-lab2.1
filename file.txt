@@ -1,0 +1,4 @@
+class java
+class Test:
+	if a == 8:
+		print("Hi")
